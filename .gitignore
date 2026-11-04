@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Test results
+allure-results/
+test-results/
+
+# HTML reports
+report.html
