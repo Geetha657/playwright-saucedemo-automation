@@ -1,3 +1,7 @@
+
+[![Playwright Automation Tests](https://github.com/Geetha657/playwright-saucedemo-automation/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/Geetha657/playwright-saucedemo-automation/actions/workflows/playwright-tests.yml)
+
+
 PLAYWRIGHT UI AUTOMATION FRAMEWORK - SAUCEDEMO
 
 PROJECT OVERVIEW
